@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title description">
+  <title id="title">Orbe — menos etapas, mais resultado</title>
+  <desc id="description">Conversão de arquivos e edição de imagens com um atalho. Formatos PNG, JPG e PDF ao redor do símbolo circular do Orbe.</desc>
+  <rect x="1" y="1" width="1198" height="458" rx="28" fill="#202226" stroke="#393d45" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="56" y="47" width="8" height="8" rx="2" fill="#428bff"/>
+    <text x="78" y="56" fill="#a9bddb" font-size="13" font-weight="700" letter-spacing="2.3">ARQUIVOS EM MOVIMENTO</text>
+    <text x="55" y="150" fill="#f5f6f8" font-size="65" font-weight="750" letter-spacing="-2">Menos etapas.</text>
+    <text x="55" y="223" fill="#f5f6f8" font-size="65" font-weight="750" letter-spacing="-2">Mais resultado.</text>
+    <text x="58" y="274" fill="#b9c0cc" font-size="20">Converta arquivos e edite imagens</text>
+    <text x="58" y="304" fill="#b9c0cc" font-size="20">no ponto em que você já está trabalhando.</text>
+    <rect x="57" y="351" width="96" height="44" rx="11" fill="#303640" stroke="#5e91e6" stroke-width="1.5"/>
+    <path d="M72 388H138" stroke="#5473a4" stroke-width="2" stroke-linecap="round"/>
+    <text x="105" y="380" text-anchor="middle" fill="#f5f6f8" font-size="18" font-weight="600">Shift</text>
+    <text x="172" y="379" fill="#c4cbd6" font-size="16">O atalho para o seu próximo passo.</text>
+    <circle cx="930" cy="226" r="150" fill="none" stroke="#414751" stroke-width="1.5"/>
+    <path d="M824 120A150 150 0 0 1 1072 178" fill="none" stroke="#428bff" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="930" cy="226" r="83" fill="#292c32" stroke="#454d5a" stroke-width="1.5"/>
+    <path d="M879 239A54 54 0 0 1 981 214" fill="none" stroke="#1681ff" stroke-width="18"/>
+    <path d="M958 211L991 203L981 238Z" fill="#1681ff"/>
+    <path d="M981 216A54 54 0 0 1 879 238" fill="none" stroke="#f3f5f8" stroke-width="18"/>
+    <path d="M902 240L869 248L879 213Z" fill="#f3f5f8"/>
+    <g font-size="20" font-weight="700" text-anchor="middle">
+      <rect x="885" y="48" width="90" height="54" rx="14" fill="#303640" stroke="#5c6b80"/>
+      <text x="930" y="82" fill="#f1f4f9">JPG</text>
+      <rect x="758" y="291" width="90" height="54" rx="14" fill="#303640" stroke="#5c6b80"/>
+      <text x="803" y="325" fill="#f1f4f9">PNG</text>
+      <rect x="1012" y="291" width="90" height="54" rx="14" fill="#245bc0" stroke="#6b9df1"/>
+      <text x="1057" y="325" fill="#ffffff">PDF</text>
+    </g>
+    <text x="930" y="414" text-anchor="middle" fill="#9faec3" font-size="13" letter-spacing="1.6">ARRASTE. SHIFT. RESOLVA.</text>
+  </g>
+</svg>
